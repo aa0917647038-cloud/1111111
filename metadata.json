@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 地政士備考應援局",
+  "description": "地政士雲端課程銷售與備考應援平台，提供精選修法衝刺、名師引路試聽、全套教材選購與備考應援工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
